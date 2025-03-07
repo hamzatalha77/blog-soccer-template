@@ -3291,7 +3291,7 @@ body#layout #hidden-widgets{display:none!important}
     </b:widget>
   </b:section>
 </b:if>
-<!-- Main Scripts -->
+
 <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js' type='text/javascript'/>
 <b:include name='theme-variables'/>
 <script type='text/javascript'>
