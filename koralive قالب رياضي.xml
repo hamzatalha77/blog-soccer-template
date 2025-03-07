@@ -3263,7 +3263,7 @@ body#layout #hidden-widgets{display:none!important}
     </div>
   </b:if>
 </div>
-<!-- Fixed Elements -->
+
 <div id='fixed-elements'>
     <div id='slide-menu'>
       <div class='slide-menu-header'>
