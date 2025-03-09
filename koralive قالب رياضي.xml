@@ -2620,8 +2620,6 @@ body#layout #hidden-widgets{display:none!important}
   </div>  
             </div> 
               </b:if>
-
-  
   <div class='flex-c' id='content-wrapper'>
     <div class='container row-x1 flex-sb'>
       <main id='main-wrapper'>
